@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">-📚 I am currently learning HTML, CSS and JavaScript, Phyton, Pytorch and Ia fundamentals                    <br>- 💼I'm looking for internship opportunities or projects to collaborate on. <br>- 📫How to reach me: guidug25@gmail.com</p>
+<p align="left">-📚 I am currently learning HTML, CSS and JavaScript,  Ia fundamentals, Phyton, Pytorch and TensorFlow                 
+  <br>- 💼I'm looking for internship opportunities or projects to collaborate on. <br>- 📫How to reach me: guidug25@gmail.com</p>
 
 ###
 
